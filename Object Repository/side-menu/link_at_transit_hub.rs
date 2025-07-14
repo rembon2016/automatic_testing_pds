@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_at_transit_hub</name>
+   <tag></tag>
+   <elementGuidId>0f069549-a5a0-4631-ba28-bb4e35d351cb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/origin/attransithub/' and (text() = 'At Transit Hub' or . = 'At Transit Hub')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>adb9ce98-ef63-4029-8869-040853b2819b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/origin/attransithub/</value>
+      <webElementGuid>e7b1e50d-dadd-4531-ac56-0d41f971cf4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>At Transit Hub</value>
+      <webElementGuid>4f9fc0c7-1b8f-4372-a26a-dc102c5022dd</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

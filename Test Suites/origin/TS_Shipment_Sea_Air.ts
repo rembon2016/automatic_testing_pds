@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Shipment_Sea_Air</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>d93bc6e3-e475-47b0-ad36-993025d4152c</testSuiteGuid>
+   <testCaseLink>
+      <guid>851c945d-1ed1-4897-b7b4-4ad0a01bc9b8</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/general/TC_Open_Browser</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b3ec14fa-dee6-4928-829d-ea0166b8006f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/general/TC_Open_Url</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ea4f5c1d-7c79-4e3d-94d9-94887f415547</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>8577ef4e-40b0-485a-8529-74afca931caa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/login/TC_Login</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5b12ae37-65a7-4881-bc9e-f95e54ca6ff3</id>
+         <iterationEntity>
+            <iterationType>SPECIFIC</iterationType>
+            <value>1</value>
+         </iterationEntity>
+         <testDataId>Data Files/login/TD_Login</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5b12ae37-65a7-4881-bc9e-f95e54ca6ff3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>EMAIL</value>
+         <variableId>4e97d4b0-54b5-4eb6-b31a-29c1696b76cc</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5b12ae37-65a7-4881-bc9e-f95e54ca6ff3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>PASSWORD</value>
+         <variableId>8ab98a93-e489-462c-bbb7-a7b50ea30545</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5de89088-35b0-40d6-9669-4b807b93d1d2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/shipment/TC_Booking_Information</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>419a7a9c-cd53-45dd-a50f-c92e3887d4c3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f6d99fb6-bd93-4700-905a-d01c5fb85865</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>6ac7614f-dae5-407c-a02c-aa1036fecc4a</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/shipment/TC_Detail_Order</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>a0b85643-c52a-425b-bd46-afe4e0c32551</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

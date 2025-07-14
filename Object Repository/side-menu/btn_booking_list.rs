@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_booking_list</name>
+   <tag></tag>
+   <elementGuidId>7ae578fc-ea45-466c-8b61-72dad54ce8a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = '/origin/bookinglist' and (text() = 'Booking List' or . = 'Booking List')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>187ad30a-a917-48e1-8dd9-453be0aff240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>/origin/bookinglist</value>
+      <webElementGuid>085058a9-631a-4597-9ae8-08d582d56876</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Booking List</value>
+      <webElementGuid>b3379f76-b8ff-4e76-8e0c-33a77fdc76d0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

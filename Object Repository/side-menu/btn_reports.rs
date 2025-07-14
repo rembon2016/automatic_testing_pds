@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_reports</name>
+   <tag></tag>
+   <elementGuidId>939ee048-7d66-411d-9119-9fe23f7005fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>/html/body/div/div/div[1]/div[1]/div/div/div/div[1]/div[2]/ul/li[9]/button</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//button[(text() = 'Reports' or . = 'Reports')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Reports &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>0be8e1e6-c408-41d8-b3c5-235ceb38df46</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link with-sub</value>
+      <webElementGuid>5e8c8cfc-5cf0-4398-9ae6-d230c366ada9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Reports</value>
+      <webElementGuid>2b945f25-a36a-4335-a134-050dabfa07d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;horizontalMenucontainer&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;sticky sticky-pin&quot;]/div[@class=&quot;main-menu main-sidebar main-sidebar-sticky side-menu&quot;]/div[@class=&quot;main-container-1 active main-sidebar-header&quot;]/div[@class=&quot;hor-scroll&quot;]/div[1]/div[@class=&quot;main-body-1 main-sidebar-body&quot;]/ul[@class=&quot;menu-nav nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link with-sub&quot;]</value>
+      <webElementGuid>c62afa9a-fab6-45d5-ab37-7e829a75db2a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/div/div[2]/ul/li[9]/a</value>
+      <webElementGuid>0c4caa51-f29a-4e28-9388-7b06da516df9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelled'])[1]/following::a[1]</value>
+      <webElementGuid>4b94e5ff-a771-486e-940f-c8c076ec5630</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cross Air'])[1]/following::a[2]</value>
+      <webElementGuid>177d6455-f945-4313-a75f-30f4739f1681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Container Loading'])[1]/preceding::a[1]</value>
+      <webElementGuid>ab726fb9-9032-40ab-9f39-2b19d4e10de4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[5]</value>
+      <webElementGuid>8777949c-f431-4c78-af0d-c50eccf2401b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[9]/a</value>
+      <webElementGuid>22a33106-da17-41fb-8272-98be8228fc0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Reports' or . = 'Reports')]</value>
+      <webElementGuid>634e8c6e-d416-4e92-906e-2378f25ec07d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

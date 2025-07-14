@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_loading_plan</name>
+   <tag></tag>
+   <elementGuidId>76ab81c7-8808-4079-a969-d9d8f63ca68a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.nav-link.with-sub</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/div/div[2]/ul/li[5]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Loading Plan &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>063275c2-66fd-470b-919c-b55fde242c5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>7edbd546-cb23-44cb-ad38-c1e246a5e1f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link with-sub</value>
+      <webElementGuid>3b24b308-2b34-432d-9e0c-330283709f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Loading Plan</value>
+      <webElementGuid>c41497e1-eb53-412e-aa16-87d0af0fab9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;horizontalMenucontainer&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;sticky&quot;]/div[@class=&quot;main-menu main-sidebar main-sidebar-sticky side-menu&quot;]/div[@class=&quot;main-container-1 active main-sidebar-header&quot;]/div[@class=&quot;hor-scroll&quot;]/div[1]/div[@class=&quot;main-body-1 main-sidebar-body&quot;]/ul[@class=&quot;menu-nav nav&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link with-sub&quot;]</value>
+      <webElementGuid>0d56d3ce-b09f-4fb8-a07f-a8fd07429be2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/div/div[2]/ul/li[5]/a</value>
+      <webElementGuid>db952bb7-2ebe-4f48-9912-d0f8005b7be7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New Shipment'])[1]/following::a[1]</value>
+      <webElementGuid>ad3f0917-34d1-4818-a8a0-e0d07d754c5f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer'])[1]/following::a[2]</value>
+      <webElementGuid>3e1268a7-d6d2-4dcb-ba86-ef59267d9707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sea Freight'])[1]/preceding::a[1]</value>
+      <webElementGuid>a5af4e48-9a30-401f-9129-e19244eb5fa3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[2]</value>
+      <webElementGuid>90af4c53-412a-4831-9407-41c67060e17c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/a</value>
+      <webElementGuid>610b37b8-f49d-4aba-b644-26819cae2bf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'Loading Plan' or . = 'Loading Plan')]</value>
+      <webElementGuid>27b37631-92bc-45e5-8508-2dd5f956810f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

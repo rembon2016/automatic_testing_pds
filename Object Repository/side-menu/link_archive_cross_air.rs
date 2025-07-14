@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_archive_cross_air</name>
+   <tag></tag>
+   <elementGuidId>371ec135-c7ab-4acf-b4ca-de1c1216a5e9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/div/div[2]/ul/li[8]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Cross Air&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>8fd27c0e-22d2-44f4-b477-67ba1c572dd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-sub-link  active</value>
+      <webElementGuid>09ad1b4e-c0fa-473f-b812-0562dfa9250a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/origin/archieveshipment/crossair/</value>
+      <webElementGuid>63ab2601-319c-4c9e-9085-624563683d94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cross Air</value>
+      <webElementGuid>7d776ae1-6bbf-4c34-9959-092b7e7bcde1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;horizontalMenucontainer&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;sticky&quot;]/div[@class=&quot;main-menu main-sidebar main-sidebar-sticky side-menu&quot;]/div[@class=&quot;main-container-1 active main-sidebar-header&quot;]/div[@class=&quot;hor-scroll&quot;]/div[1]/div[@class=&quot;main-body-1 main-sidebar-body&quot;]/ul[@class=&quot;menu-nav nav&quot;]/li[@class=&quot;nav-item active&quot;]/ul[@class=&quot;nav-sub open&quot;]/li[@class=&quot;nav-sub-item&quot;]/a[@class=&quot;nav-sub-link  active&quot;]</value>
+      <webElementGuid>e9739394-72da-414d-bd08-c4980904ed22</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/div/div[2]/ul/li[8]/ul/li[2]/a</value>
+      <webElementGuid>4b6467f8-1e17-4f1f-b76e-6bdd0a6d7234</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cross Air')]</value>
+      <webElementGuid>3fcccb24-e039-47ce-9e7e-3c65b7c56f62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sea Air'])[1]/following::a[1]</value>
+      <webElementGuid>7130eb39-660d-449e-a2bc-c38afa5fced4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Archive Shipments'])[1]/following::a[2]</value>
+      <webElementGuid>d6c5ce77-469c-4307-b889-eb8ef42ba182</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancelled'])[1]/preceding::a[1]</value>
+      <webElementGuid>e12283f5-8321-464a-830b-fd1684b0fdbf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reports'])[1]/preceding::a[2]</value>
+      <webElementGuid>fd37d34f-998e-4122-bf1c-058e740eae89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cross Air']/parent::*</value>
+      <webElementGuid>b5a3c358-a5c1-4f54-8278-dba0a3a3ab92</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/origin/archieveshipment/crossair/')]</value>
+      <webElementGuid>edbec20a-fdb0-49cc-b13b-e041ee9b2379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[8]/ul/li[2]/a</value>
+      <webElementGuid>398e828a-619b-4141-b064-6bb1807c3d3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/origin/archieveshipment/crossair/' and (text() = 'Cross Air' or . = 'Cross Air')]</value>
+      <webElementGuid>6b497a99-c134-4dbe-a2ee-a7a801a4fbda</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

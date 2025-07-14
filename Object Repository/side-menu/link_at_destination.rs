@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_at_destination</name>
+   <tag></tag>
+   <elementGuidId>dc514ddf-f44c-4b57-b9a2-389177057454</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/origin/atdestination/' and (text() = 'At Destination' or . = 'At Destination')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0071a765-1ccd-4ad1-80f4-ddba527cff13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/origin/atdestination/</value>
+      <webElementGuid>ec491f99-5310-4748-9402-3c6d561125d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>At Destination</value>
+      <webElementGuid>f141b4c6-3479-4a3b-bac0-db4cd60c8157</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

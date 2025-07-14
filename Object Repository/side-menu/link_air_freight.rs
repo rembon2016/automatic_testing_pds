@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_air_freight</name>
+   <tag></tag>
+   <elementGuidId>57c20986-e2f9-4229-86c5-ec96e43d4604</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/origin/loadingplanair/' and (text() = 'Air Freight' or . = 'Air Freight')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27982f8c-e5cc-455e-a9e9-a21278ad4983</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/origin/loadingplanair/</value>
+      <webElementGuid>92e36bb2-2fe5-4aa2-a2d2-a37c53168a92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Air Freight</value>
+      <webElementGuid>21bc1c05-c22b-444c-b0cf-f92790f3726d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

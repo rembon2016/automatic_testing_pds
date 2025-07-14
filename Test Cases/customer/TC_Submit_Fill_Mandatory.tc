@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Submit_Fill_Mandatory</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9a9913c5-23c4-4df3-b713-40419ef8e386</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4d0da443-294c-4fe0-ae57-9ec562550357</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Submit Succesfully'</defaultValue>
+      <description></description>
+      <id>4d0da443-294c-4fe0-ae57-9ec562550357</id>
+      <masked>false</masked>
+      <name>msgSubmitSuccess</name>
+   </variable>
+</TestCaseEntity>

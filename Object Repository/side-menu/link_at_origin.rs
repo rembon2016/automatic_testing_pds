@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_at_origin</name>
+   <tag></tag>
+   <elementGuidId>3c3ad637-5325-461f-bf79-c1fed9ce1a01</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/origin/atorigin/' and (text() = 'At Origin' or . = 'At Origin')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9122e263-557b-4b23-8217-6795550eb64b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/origin/atorigin/</value>
+      <webElementGuid>2e20d885-5b98-45b5-b117-0a473fa36d10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>At Origin</value>
+      <webElementGuid>c463b21e-8257-4e8b-87a9-bb830a54c2f6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

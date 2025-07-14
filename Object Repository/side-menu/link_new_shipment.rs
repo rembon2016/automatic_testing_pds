@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_new_shipment</name>
+   <tag></tag>
+   <elementGuidId>7e9e1873-024c-44bc-a98a-162da0cd9011</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/origin/shippinginstruction/form/' and (text() = 'New Shipment' or . = 'New Shipment')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9376f1cd-0cd3-438f-b6e0-bface659f42c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/origin/shippinginstruction/form/</value>
+      <webElementGuid>767ee9f9-b15d-44b1-9180-515963850d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Shipment</value>
+      <webElementGuid>38d9c626-437c-465e-8257-acc0b9a9c015</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

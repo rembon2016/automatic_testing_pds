@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Form_Add_Customer</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c53db659-4d43-4d29-981c-2200bf269218</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b4060335-7c6c-448d-a6f4-7b19cbf3bc6c</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bc262551-fe80-419b-8d0b-84714a14842e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>28009068-f966-4d26-aa41-c6875d10bf84</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a77b62da-0e5d-4442-897d-ed9a12bbf621</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>46b90e21-047c-4f13-aca5-47fea00c61a0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Customer Name is Required'</defaultValue>
+      <description></description>
+      <id>b4060335-7c6c-448d-a6f4-7b19cbf3bc6c</id>
+      <masked>false</masked>
+      <name>msgErrorCustName</name>
+   </variable>
+   <variable>
+      <defaultValue>'Customer Address is Required'</defaultValue>
+      <description></description>
+      <id>bc262551-fe80-419b-8d0b-84714a14842e</id>
+      <masked>false</masked>
+      <name>msgErrorAddress</name>
+   </variable>
+   <variable>
+      <defaultValue>'Customer Type is Required'</defaultValue>
+      <description></description>
+      <id>28009068-f966-4d26-aa41-c6875d10bf84</id>
+      <masked>false</masked>
+      <name>msgErrorCustType</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please choose a country'</defaultValue>
+      <description></description>
+      <id>a77b62da-0e5d-4442-897d-ed9a12bbf621</id>
+      <masked>false</masked>
+      <name>msgErrorCountry</name>
+   </variable>
+   <variable>
+      <defaultValue>'Please fill valid value'</defaultValue>
+      <description></description>
+      <id>46b90e21-047c-4f13-aca5-47fea00c61a0</id>
+      <masked>false</masked>
+      <name>popUpError</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DataFileEntity>
+   <description></description>
+   <name>Customer</name>
+   <tag></tag>
+   <connectionProperties/>
+   <containsHeaders>true</containsHeaders>
+   <csvSeperator></csvSeperator>
+   <dataFileGUID>b8aac0ca-b9f2-4979-af89-e2b296442891</dataFileGUID>
+   <dataSourceUrl></dataSourceUrl>
+   <driver>InternalData</driver>
+<internalDataColumns>
+      <columnIndex>0</columnIndex>
+      <name>Name</name>
+      <size>2</size>
+   </internalDataColumns>
+<internalDataColumns>
+      <columnIndex>1</columnIndex>
+      <name>Address</name>
+      <size>2</size>
+   </internalDataColumns>
+<internalDataColumns>
+      <columnIndex>2</columnIndex>
+      <name>Email</name>
+      <size>2</size>
+   </internalDataColumns>
+<internalDataColumns>
+      <columnIndex>3</columnIndex>
+      <name>Telepon</name>
+      <size>2</size>
+   </internalDataColumns>
+<internalDataColumns>
+      <columnIndex>4</columnIndex>
+      <name>EORI Number</name>
+      <size>2</size>
+   </internalDataColumns>
+<internalDataColumns>
+      <columnIndex>5</columnIndex>
+      <name>Phone</name>
+      <size>2</size>
+   </internalDataColumns>
+<internalDataColumns>
+      <columnIndex>6</columnIndex>
+      <name>Tax ID</name>
+      <size>2</size>
+   </internalDataColumns>
+<internalDataColumns>
+      <columnIndex>7</columnIndex>
+      <name>Contact Center</name>
+      <size>2</size>
+   </internalDataColumns>
+<internalDataColumns>
+      <columnIndex>8</columnIndex>
+      <name>Type</name>
+      <size>2</size>
+   </internalDataColumns>
+<internalDataColumns>
+      <columnIndex>9</columnIndex>
+      <name>Country</name>
+      <size>2</size>
+   </internalDataColumns>
+
+<data>PT+Crssoert+Idnrntui Jl.+Chahphhp+Blok+BA+No+58 customer1105%40gmail.com %2B624017345230 19349 %2B622595360923 54258 %2B625547456517 Shipper Andiionns</data>
+<data>PT+Etsutcmt+Trtriysi Jl.+Mkmcemca+Blok+AB+No+64 customer1926%40gmail.com %2B621773251815 64570 %2B621433379511 66054 %2B625261604787 Shipper Eeessniai</data>
+<data>PT+Ouocceeu+Rdtrrttu Jl.+Pkchaaca+Blok+AA+No+48 customer3554%40gmail.com %2B628346827382 91723 %2B625769506689 74737 %2B628976503999 Shipper Ieedoinai</data>
+<data>PT+Rmrsceot+Ridstttn Jl.+Kcckhema+Blok+BB+No+39 customer9103%40gmail.com %2B622766496855 95100 %2B629192067876 31071 %2B626729090516 Shipper Iininoinn</data>
+<data>PT+Eerceetu+Dnuursdr Jl.+Pmapkhae+Blok+AB+No+81 customer9861%40gmail.com %2B629617716229 33205 %2B622487469040 96165 %2B624440302457 Shipper Ieeianeon</data>
+<data>PT+Mocucsmu+Ysuutyii Jl.+Hkmpkaah+Blok+AB+No+50 customer5325%40gmail.com %2B625844118576 40554 %2B626700150958 67443 %2B621098250959 Shipper Ninnindeo</data>
+<data>PT+Ruoeutmu+Snrsstyu Jl.+Maecahkk+Blok+AA+No+49 customer3415%40gmail.com %2B621996117370 28431 %2B629036205104 73922 %2B627222834176 Shipper Snnssnioi</data>
+<data>PT+Uucrmuer+Srndsiiy Jl.+Chkphkpc+Blok+AA+No+63 customer8612%40gmail.com %2B621384933975 61837 %2B626661835142 90924 %2B625408287400 Shipper Onennnaei</data>
+<data>PT+Rceormuc+Rdrsuuni Jl.+Aaapmhaa+Blok+AB+No+72 customer8409%40gmail.com %2B624673752113 88911 %2B621822255811 45891 %2B629434207280 Shipper Inaoisnei</data>
+<data>PT+Rseturtc+Sdustdrs Jl.+Ahcceach+Blok+AB+No+73 customer5132%40gmail.com %2B621998820766 47619 %2B621070694331 31096 %2B626258105124 Shipper Idenandna</data>
+
+<isInternalPath>false</isInternalPath>
+   <query></query>
+   <secureUserAccount>false</secureUserAccount>
+   <sheetName></sheetName>
+   <usingGlobalDBSetting>false</usingGlobalDBSetting>
+</DataFileEntity>

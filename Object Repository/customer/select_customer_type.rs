@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_customer_type</name>
+   <tag></tag>
+   <elementGuidId>9dab4e77-3876-4ba1-9924-a1fff18bd8fd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div[3]/div/div/div/div[2]/div/div/div[7]/div/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Choose customer type$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8cffaa39-0a2f-4260-916a-c4bbf6accc29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> css-hlgwow</value>
+      <webElementGuid>9222ffd4-3896-4b9b-9a19-4906be88790c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Choose customer type</value>
+      <webElementGuid>a08e8708-9215-4db1-970d-520332f1a34a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[@class=&quot;horizontalMenucontainer&quot;]/div[@class=&quot;page&quot;]/div[@class=&quot;main-content side-content pt-0&quot;]/div[@class=&quot;main-container container-fluid&quot;]/div[@class=&quot;inner-body&quot;]/div[1]/div[@class=&quot;row&quot;]/div[@class=&quot;col-lg-12 col-md-12&quot;]/div[@class=&quot;my-card-padding mb-mobile card&quot;]/div[@class=&quot;d-flex justify-content-between responsive mb-3&quot;]/div[@class=&quot;w-100&quot;]/div[@class=&quot;undefined css-b62m3t-container&quot;]/div[@class=&quot;css-107b69r-control&quot;]/div[@class=&quot;css-hlgwow&quot;]</value>
+      <webElementGuid>ec3a8549-2d6d-484c-9b65-e2d420edd771</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div[3]/div/div/div/div[2]/div/div/div[7]/div/div[2]/div/div</value>
+      <webElementGuid>0944ad70-4a51-419c-bc98-210ede1ac456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Type *'])[1]/following::div[3]</value>
+      <webElementGuid>612c567c-6447-4b36-83f8-6dab1089d9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Contact Center'])[1]/following::div[7]</value>
+      <webElementGuid>1fb8f339-7fc6-4549-bda4-21693e94c4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Country *'])[1]/preceding::div[6]</value>
+      <webElementGuid>8a14dcb1-1921-4183-9d3a-59e4317bb2b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[2]/div/div</value>
+      <webElementGuid>3b07450c-5ab0-4b6a-b535-8da1be763d3b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Choose customer type' or . = 'Choose customer type')]</value>
+      <webElementGuid>08b88b3a-00e6-4218-8bc8-8eddf829e94c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

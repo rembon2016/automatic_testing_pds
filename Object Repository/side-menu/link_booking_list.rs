@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>link_booking_list</name>
+   <tag></tag>
+   <elementGuidId>1e967f3d-7d4a-46a5-b536-5e9c6f129fed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/origin/bookinglist/' and (text() = 'Booking List' or . = 'Booking List')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>27d841d1-fb5f-4f89-9f89-84ab63e02a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/origin/bookinglist/</value>
+      <webElementGuid>695e7dc7-3b44-4d7c-8503-93dbd6630b1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Booking List</value>
+      <webElementGuid>23824ea8-9578-43d5-8792-1f99bdc18968</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
